@@ -7,6 +7,7 @@
   },
   "author": "Vinay Pulim <v@pulim.com>",
   "dependencies": {
+    "ejs": "^2.5.8",
     "lodash": "~2.4.1",
     "request": ">=2.9.0",
     "sax": ">=0.6",
